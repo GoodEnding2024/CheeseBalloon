@@ -13,7 +13,7 @@
 
 | JavaScript | TypeScript |  React   |  Next.js   | Css-Modules |
 | :--------: | :--------: | :------: | :--------: | :---------: |
-|   [![js]](https://github.com/user-attachments/assets/4ebfaad1-ff7a-4e13-bd43-117b023c047a)    |   ![ts]    | ![react] | ![next.js] |   ![css]    |
+|   (https://github.com/user-attachments/assets/4ebfaad1-ff7a-4e13-bd43-117b023c047a)    |   ![ts]    | ![react] | ![next.js] |   ![css]    |
 
 <br>
 
